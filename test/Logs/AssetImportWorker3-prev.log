@@ -1,0 +1,387 @@
+Using pre-set license
+Built from '6000.0/release' branch; Version is '6000.0.29f1 (9fafe5c9db65) revision 10465253'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'ja' Physical Memory: 16085 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.29f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/2230039/Desktop/unity01/UnityTest/test
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+59076
+-job-worker-count
+7
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/2230039/Desktop/unity01/UnityTest/test
+C:/Users/2230039/Desktop/unity01/UnityTest/test
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [22964]  Target information:
+
+Player connection [22964]  * "[IP] 10.104.0.109 [Port] 0 [Flags] 2 [Guid] 2100668688 [EditorId] 2100668688 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22964] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [22964] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 1.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.29f1 (9fafe5c9db65)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/2230039/Desktop/unity01/UnityTest/test/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   NVIDIA
+    VRAM:     3965 MB
+    Driver:   32.0.15.5599
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56872
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005420 seconds.
+- Loaded All Assemblies, in  0.476 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.381 seconds
+Domain Reload Profiling: 855ms
+	BeginReloadAssembly (213ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (58ms)
+	LoadAllAssembliesAndSetupDomain (155ms)
+		LoadAssemblies (210ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (152ms)
+			TypeCache.Refresh (150ms)
+				TypeCache.ScanAssembly (134ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (381ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (328ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (27ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (214ms)
+			ProcessInitializeOnLoadMethodAttributes (75ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.288 seconds
+Refreshing native plugins compatible for Editor in 1.20 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.956 seconds
+Domain Reload Profiling: 2239ms
+	BeginReloadAssembly (182ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (996ms)
+		LoadAssemblies (834ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (276ms)
+			TypeCache.Refresh (183ms)
+				TypeCache.ScanAssembly (164ms)
+			BuildScriptInfoCaches (78ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (956ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (754ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (76ms)
+			ProcessInitializeOnLoadAttributes (543ms)
+			ProcessInitializeOnLoadMethodAttributes (119ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 197 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5910 unused Assets / (4.2 MB). Loaded Objects now: 6577.
+Memory consumption went from 165.0 MB to 160.8 MB.
+Total: 11.193900 ms (FindLiveObjects: 1.129800 ms CreateObjectMapping: 0.844800 ms MarkObjects: 6.024300 ms  DeleteObjects: 3.193800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 514416.180900 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Materials/M_BullTank_BuiltIn_Black.mat
+  artifactKey: Guid(b7ad87020b5974e43944877a7f685eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Materials/M_BullTank_BuiltIn_Black.mat using Guid(b7ad87020b5974e43944877a7f685eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f33858724d29369717d83d9f058c3eb7') in 1.6128668 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Bodyguards.mat
+  artifactKey: Guid(d9826d5480f53c54ca57542a7085c782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Bodyguards.mat using Guid(d9826d5480f53c54ca57542a7085c782) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e3ccc982a49b4c09934feb1f1b93a621') in 25.2923038 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Viking_Axe.mat
+  artifactKey: Guid(d71a499ddc14e0b4f90eabbc3cd21b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Viking_Axe.mat using Guid(d71a499ddc14e0b4f90eabbc3cd21b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c79e77e7a23336bc41ec02f5151e521c') in 0.4238953 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Materials/M_BullTank_HDRP_Grey.mat
+  artifactKey: Guid(000f89d2381e0fc4cab110e2872e5bb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Materials/M_BullTank_HDRP_Grey.mat using Guid(000f89d2381e0fc4cab110e2872e5bb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a68b6a3f012582ba2a971b3c92ee40fd') in 0.2327558 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Materials/M_BullTank_BuiltIn_Grey.mat
+  artifactKey: Guid(02a9c456d827e274eb80be25b8fcb734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Materials/M_BullTank_BuiltIn_Grey.mat using Guid(02a9c456d827e274eb80be25b8fcb734) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '77901af0078b588795508b397f7667f4') in 0.8493587 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Materials/M_BullTank_HDRP_Viking.mat
+  artifactKey: Guid(0cf7479a4f6c9014a8aaa2e1eb6febde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Materials/M_BullTank_HDRP_Viking.mat using Guid(0cf7479a4f6c9014a8aaa2e1eb6febde) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6002f066b2904a9e5103dc8b0e4ec0e0') in 0.8483675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Brown.mat
+  artifactKey: Guid(48a4b60759269904f87f5554ec06a7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Brown.mat using Guid(48a4b60759269904f87f5554ec06a7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f1f1e3f9e5e0a12e88e9eb20a96ea16') in 3.6017435 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 161.922429 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Meshes/SM_Bodyguard_Baton.fbx
+  artifactKey: Guid(7bda88f92bc91d44ab53afb57c2dadf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Meshes/SM_Bodyguard_Baton.fbx using Guid(7bda88f92bc91d44ab53afb57c2dadf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5e7d569e430bab890596002d35f14b0f') in 0.1598891 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Meshes/SM_Viking_Axe.fbx
+  artifactKey: Guid(17e83658388c9f64e968012444679fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Meshes/SM_Viking_Axe.fbx using Guid(17e83658388c9f64e968012444679fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16bce5ae9299c8a1766f883846ca0427') in 0.1406248 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.549623 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Angry.FBX
+  artifactKey: Guid(3ba1b5f9f1416bf4b88cca52e4f76194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Angry.FBX using Guid(3ba1b5f9f1416bf4b88cca52e4f76194) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dca136a9372582bfbe0428f519fc2807') in 0.0073233 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack02_Charge_Loop.FBX
+  artifactKey: Guid(d7859e74be4f8e142b14306ee6fcb2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack02_Charge_Loop.FBX using Guid(d7859e74be4f8e142b14306ee6fcb2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0692b7a67976b2ed2d447d326f3f38ec') in 0.0224303 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack02_Run_Loop.FBX
+  artifactKey: Guid(7a51dc6c9d1f8b840bc84fd704b6b178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack02_Run_Loop.FBX using Guid(7a51dc6c9d1f8b840bc84fd704b6b178) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e2d4cf16039bf1eca14ee0e29c62332') in 0.0071463 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Idle.FBX
+  artifactKey: Guid(2e441b0239642ce4b86fb8846a945cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Idle.FBX using Guid(2e441b0239642ce4b86fb8846a945cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '74dc9caba718ceabed4fffff5e031015') in 0.0043231 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_SpeedWalk_F.FBX
+  artifactKey: Guid(ac34066dafe835840b60272b6cfedf32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_SpeedWalk_F.FBX using Guid(ac34066dafe835840b60272b6cfedf32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ab9a83ed472cf06eb1834fe0583ba528') in 0.0064384 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack03_Loop.FBX
+  artifactKey: Guid(bbc0d792585f38140b4715b185855808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack03_Loop.FBX using Guid(bbc0d792585f38140b4715b185855808) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '643ce77244fd4f9424b270336d68b4be') in 0.0062967 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_SpeedWalk_L.FBX
+  artifactKey: Guid(b254ba1899c30684e9451d6a09d0174e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_SpeedWalk_L.FBX using Guid(b254ba1899c30684e9451d6a09d0174e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0802522f3d875f559566a821a2b1cdda') in 0.0048943 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack02_End.FBX
+  artifactKey: Guid(4e122dd119d64034cbb123f67df01e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack02_End.FBX using Guid(4e122dd119d64034cbb123f67df01e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '52c5a4106c11256d2f14c6f99c5330e6') in 0.0066423 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Jump_End.FBX
+  artifactKey: Guid(8cf038293a5e9bf4ebf4548a5fbbc68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Jump_End.FBX using Guid(8cf038293a5e9bf4ebf4548a5fbbc68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0655d385b44457fc566899d33457837') in 0.0052697 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack01.FBX
+  artifactKey: Guid(82aa9493bceef0043a459ae54dbe0ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack01.FBX using Guid(82aa9493bceef0043a459ae54dbe0ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c944000e9322a264f564c12c58e7e07') in 0.0057168 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_SpeedWalk_R.FBX
+  artifactKey: Guid(d3809b37dc1863f49b02b6da9f9d92b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_SpeedWalk_R.FBX using Guid(d3809b37dc1863f49b02b6da9f9d92b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e6158a35b8d30466b7f79aabbeb2f138') in 0.0052303 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Walk_L.FBX
+  artifactKey: Guid(b1de1c38a2288ed4399ec4ba28d29bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Walk_L.FBX using Guid(b1de1c38a2288ed4399ec4ba28d29bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f278be59b476f23a0bd2f78c4a6431e') in 0.0049306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Run.FBX
+  artifactKey: Guid(a4069dfd3f9fdf54d99fab72bfa25e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Run.FBX using Guid(a4069dfd3f9fdf54d99fab72bfa25e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7db256fc4d95da386fd2bd92a51c6d94') in 0.0049468 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Death.FBX
+  artifactKey: Guid(5e89cf5c58d03484bb6356f6f68d1f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Death.FBX using Guid(5e89cf5c58d03484bb6356f6f68d1f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c0fc92f194450115b7a8a58f3c419a37') in 0.0067242 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Death_Loop.FBX
+  artifactKey: Guid(ad1502211e35f204c966faff70210289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Death_Loop.FBX using Guid(ad1502211e35f204c966faff70210289) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf3ce4c5af1dc03863bf7fd8724448ea') in 0.0046236 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 155
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.051701 seconds.
+  path: Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Naked.prefab
+  artifactKey: Guid(265dbe52419c8434ba1ed50a2f392529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Naked.prefab using Guid(265dbe52419c8434ba1ed50a2f392529) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd438b454e06111ca602f06f7cc1884a8') in 0.2243809 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 867
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

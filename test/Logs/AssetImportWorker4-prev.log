@@ -1,0 +1,1191 @@
+Using pre-set license
+Built from '6000.0/release' branch; Version is '6000.0.29f1 (9fafe5c9db65) revision 10465253'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'ja' Physical Memory: 16085 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.29f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/2230039/Desktop/unity01/UnityTest/test
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+59076
+-job-worker-count
+7
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/2230039/Desktop/unity01/UnityTest/test
+C:/Users/2230039/Desktop/unity01/UnityTest/test
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [33784]  Target information:
+
+Player connection [33784]  * "[IP] 10.104.0.109 [Port] 0 [Flags] 2 [Guid] 410474145 [EditorId] 410474145 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [33784] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [33784] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 1.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.29f1 (9fafe5c9db65)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/2230039/Desktop/unity01/UnityTest/test/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   NVIDIA
+    VRAM:     3965 MB
+    Driver:   32.0.15.5599
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56544
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002233 seconds.
+- Loaded All Assemblies, in  0.341 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.283 seconds
+Domain Reload Profiling: 622ms
+	BeginReloadAssembly (120ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (135ms)
+		LoadAssemblies (118ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (133ms)
+			TypeCache.Refresh (132ms)
+				TypeCache.ScanAssembly (116ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (283ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (240ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (6ms)
+			ProcessInitializeOnLoadAttributes (150ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.770 seconds
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.717 seconds
+Domain Reload Profiling: 1484ms
+	BeginReloadAssembly (151ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (541ms)
+		LoadAssemblies (403ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (227ms)
+			TypeCache.Refresh (154ms)
+				TypeCache.ScanAssembly (139ms)
+			BuildScriptInfoCaches (55ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (718ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (550ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (60ms)
+			ProcessInitializeOnLoadAttributes (390ms)
+			ProcessInitializeOnLoadMethodAttributes (86ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 197 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5910 unused Assets / (3.7 MB). Loaded Objects now: 6579.
+Memory consumption went from 159.9 MB to 156.2 MB.
+Total: 7.376600 ms (FindLiveObjects: 0.636500 ms CreateObjectMapping: 0.579400 ms MarkObjects: 3.934500 ms  DeleteObjects: 2.225400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 514639.188825 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AC_BullTank.controller
+  artifactKey: Guid(aab04d33da1d4de4eb49b65475e70c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AC_BullTank.controller using Guid(aab04d33da1d4de4eb49b65475e70c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '763ed2e311a0a8722603bcb675481fbe') in 0.0239793 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.367983 seconds.
+  path: Assets/Zectorlab/BullTank/Maps
+  artifactKey: Guid(28d78e6714485ea449e948ba477dc8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Maps using Guid(28d78e6714485ea449e948ba477dc8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b8c604690ca5ccb858099d28d1cfaef5') in 0.0010518 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.390483 seconds.
+  path: Assets/Zectorlab/BullTank/Maps/Map_Character_Overview.unity
+  artifactKey: Guid(9aa2397b5fd19a9448f402da8e8b3330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Maps/Map_Character_Overview.unity using Guid(9aa2397b5fd19a9448f402da8e8b3330) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef4957a51b974a086827f7cf6cf1efe3') in 0.0006897 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.167568 seconds.
+  path: Assets/Zectorlab/BullTank/Prefabs
+  artifactKey: Guid(43e052d25aa304f4ca906c45dae1e348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Prefabs using Guid(43e052d25aa304f4ca906c45dae1e348) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c637d3b51889315bb514392e71b3b875') in 0.000673 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084416 seconds.
+  path: Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Bodyguard.prefab
+  artifactKey: Guid(95cb5178c41759e4e9c2a9e9c31e3dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Bodyguard.prefab using Guid(95cb5178c41759e4e9c2a9e9c31e3dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '47800805054f7ee2c7ae58d6cf0fb3ad') in 0.693447 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 882
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.819510 seconds.
+  path: Assets/Zectorlab/BullTank/Prefabs/Master
+  artifactKey: Guid(72722a8d97b0acf4195cd7f92666631c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Prefabs/Master using Guid(72722a8d97b0acf4195cd7f92666631c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'df91e7c0c3033d8aa1111e5d7bd30e28') in 0.0010773 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.242373 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Materials
+  artifactKey: Guid(2753864d97f08d74aa509b79e090c47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Materials using Guid(2753864d97f08d74aa509b79e090c47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1de40dda08e501c8f6d28098dc5141e0') in 0.0032857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.330585 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Axe_AO.png
+  artifactKey: Guid(87aac05d5ebbc41429f1855ce8e3db9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Axe_AO.png using Guid(87aac05d5ebbc41429f1855ce8e3db9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '902e57a802f09b5adeea18a20ca79cf4') in 0.0434438 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Body_Black_BC.png
+  artifactKey: Guid(08c642465273b7643968ea984dfd7a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Body_Black_BC.png using Guid(08c642465273b7643968ea984dfd7a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1409b7ad965c3021432438f54a2d543c') in 0.0436797 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_VikingSuit_R.png
+  artifactKey: Guid(1de7d90804ed40a47a1ef636919fc867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_VikingSuit_R.png using Guid(1de7d90804ed40a47a1ef636919fc867) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b46f7bbd5bb0f3ec03e8643d4ea62f7d') in 0.0418054 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Axe_N.png
+  artifactKey: Guid(f17c2f09008442b45b0267e780f08879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Axe_N.png using Guid(f17c2f09008442b45b0267e780f08879) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4cdcb97c4692dd555b2cf7fc9eb9951b') in 0.0397405 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_VikingSuit_AO.png
+  artifactKey: Guid(cf8a679bed056cd4791575f16aca2c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_VikingSuit_AO.png using Guid(cf8a679bed056cd4791575f16aca2c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dea99f22a4e0c5adb0e66de41969a8e8') in 0.0224687 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Baton_AO.png
+  artifactKey: Guid(efd16aa17b4f9054d804b7984fd86e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Baton_AO.png using Guid(efd16aa17b4f9054d804b7984fd86e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '80aaf1a31ca7c9b28819714055e44e56') in 0.022706 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Bodyguard_R.png
+  artifactKey: Guid(efcd4763460d7d64a948c8cb1af63ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Bodyguard_R.png using Guid(efcd4763460d7d64a948c8cb1af63ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d59727629a637502e04993c644dff75') in 0.0223946 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Body_Blue_BC.png
+  artifactKey: Guid(621e47a51794c7a438cdc68c965e9486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Body_Blue_BC.png using Guid(621e47a51794c7a438cdc68c965e9486) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '86b9c58fd88a0fd597046a1a2c92cd33') in 0.0227294 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Bodyguard_AO.png
+  artifactKey: Guid(b77c88df8bce5144bba17aa6a4351391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Bodyguard_AO.png using Guid(b77c88df8bce5144bba17aa6a4351391) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1625dc7f525d415ada62f623f4ab2952') in 0.0227893 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Baton_BC.png
+  artifactKey: Guid(0bf43b72c986f454597696c64c669648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Baton_BC.png using Guid(0bf43b72c986f454597696c64c669648) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '92c9ba50706242da55fdb759e94c6f5e') in 0.0265641 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Baton_N.png
+  artifactKey: Guid(688b43e0affd00a48868df4c74e3549d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Baton_N.png using Guid(688b43e0affd00a48868df4c74e3549d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '554ec88da5da094e976de706ff922089') in 0.0285267 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Axe_R.png
+  artifactKey: Guid(4b62269352ed648428b5adf4a10731d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Axe_R.png using Guid(4b62269352ed648428b5adf4a10731d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4cda787501fab88c58b92c04fa3a30bf') in 0.0212057 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.407553 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP
+  artifactKey: Guid(d88a76d04a90c614d82e6cfec6158719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP using Guid(d88a76d04a90c614d82e6cfec6158719) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6fc225d1acda96146b0743302c82965a') in 0.0011409 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.137304 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Materials
+  artifactKey: Guid(37b5ba2ba349ea943b27fd8b77bcf482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Materials using Guid(37b5ba2ba349ea943b27fd8b77bcf482) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c6b4f641bb98f48ef3a8b53702ae707d') in 0.0010518 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 601.972698 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Axe_BC.png
+  artifactKey: Guid(04168bb2358f1e446bc16036b70fdc73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Axe_BC.png using Guid(04168bb2358f1e446bc16036b70fdc73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3dd2dbf788f60acd1d47b198a975e8d6') in 0.0431027 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.858314 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Axe_N.png
+  artifactKey: Guid(093cc7e6ecadae84bbfcdf078e065689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Axe_N.png using Guid(093cc7e6ecadae84bbfcdf078e065689) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1670c00a136a51e4ff5609955095e34a') in 0.0511389 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017199 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Baton_N.png
+  artifactKey: Guid(e90ed42d74fda4343b356f656f35ba9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Baton_N.png using Guid(e90ed42d74fda4343b356f656f35ba9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e8f79d8dee6edb0abd2550eaa715209') in 0.0424513 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.245839 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_Blue_BC.png
+  artifactKey: Guid(65cb0fe854b3e4549a827fdf0e9333d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_Blue_BC.png using Guid(65cb0fe854b3e4549a827fdf0e9333d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd87089ac679a7465324af877987f589f') in 0.0360961 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029490 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_E.png
+  artifactKey: Guid(e3137b9efccbc194c838a50aa8347d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_E.png using Guid(e3137b9efccbc194c838a50aa8347d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3540689f5a15b6586abb14d51b5ce027') in 0.0275714 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.894984 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_N.png
+  artifactKey: Guid(3dbd9d3c17da56740a6acb638bf2c99f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_N.png using Guid(3dbd9d3c17da56740a6acb638bf2c99f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '777c175c478137bf02e1f245219a77cc') in 0.0482567 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 175.192162 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Axe_AO.png
+  artifactKey: Guid(ce66c4468e5b29f41acec4ca725a3646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Axe_AO.png using Guid(ce66c4468e5b29f41acec4ca725a3646) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38e3ecb132f1c5a87ea9dd5dfa21fdd5') in 0.0491154 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_Brown_BC.png
+  artifactKey: Guid(63196e053b1559143b4102a8cc174dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_Brown_BC.png using Guid(63196e053b1559143b4102a8cc174dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '61b64ca59e4bd8d6be2e556533b4b1ab') in 0.0484507 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Bodyguard_AO.png
+  artifactKey: Guid(8b32b4685ab000f4586ece0afbd1dc1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Bodyguard_AO.png using Guid(8b32b4685ab000f4586ece0afbd1dc1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e39cf7f81c931c254b6046274c7e108') in 0.058736 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Baton_N.png
+  artifactKey: Guid(3888a9f11f951384498ec9768980716f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Baton_N.png using Guid(3888a9f11f951384498ec9768980716f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '539b8b22a1e19f72111288816c277bc9') in 0.0583596 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Axe_N.png
+  artifactKey: Guid(fec347168911ec446aba849b282fa078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Axe_N.png using Guid(fec347168911ec446aba849b282fa078) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd0d6f77ff99df4ab089c69400599cd3c') in 0.0636574 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_N.png
+  artifactKey: Guid(dcc13321f220a49458f94ba037b37f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_N.png using Guid(dcc13321f220a49458f94ba037b37f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '43db776c4cf9ee3547b676ff5ce36605') in 0.0473439 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Bodyguard_MS.png
+  artifactKey: Guid(363fa208c22099f47b9e96e2ef0b0f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Bodyguard_MS.png using Guid(363fa208c22099f47b9e96e2ef0b0f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a8b648131ee92954f7662b3b119b47cb') in 0.0312934 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_Blue_BC.png
+  artifactKey: Guid(78311bcc7be4d3343af29a28258e1471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_Blue_BC.png using Guid(78311bcc7be4d3343af29a28258e1471) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f411c0d47e15a109ca1ffc377be1648b') in 0.030045 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Baton_BC.png
+  artifactKey: Guid(c8866005c15f06d4f8298b37a422be02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Baton_BC.png using Guid(c8866005c15f06d4f8298b37a422be02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '52ad0cab7a2123397cfe688f0929525a') in 0.0225906 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_Black_BC.png
+  artifactKey: Guid(beac25275af51bd4fa09ae32424dedb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_Black_BC.png using Guid(beac25275af51bd4fa09ae32424dedb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e65233a980dd13c603e3407548462d84') in 0.0319791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Bodyguard_N.png
+  artifactKey: Guid(21debec367858524fa1cc72b5f171905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Bodyguard_N.png using Guid(21debec367858524fa1cc72b5f171905) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ec4180efa1875f05d4930aab7c3ec7e9') in 0.0493029 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_MS.png
+  artifactKey: Guid(97919c8c3cab5c34ca4af49cd2d166a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_MS.png using Guid(97919c8c3cab5c34ca4af49cd2d166a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e310c1aaf7c32e8efcaf460802a367a2') in 0.0235219 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.800237 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Bodyguard_M.png
+  artifactKey: Guid(3876a4747cc39df48a7996be045778bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Bodyguard_M.png using Guid(3876a4747cc39df48a7996be045778bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '39d328115ff27b3ef65f3b55e88346b0') in 0.0578159 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_VikingSuit_N.png
+  artifactKey: Guid(244a14bff28403b4897d38a1170d19ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_VikingSuit_N.png using Guid(244a14bff28403b4897d38a1170d19ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a701baebf57e8f5d70fffe271215d652') in 0.0565278 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.538545 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials
+  artifactKey: Guid(8f4ec4b37cbcc094e8ea30412445c979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials using Guid(8f4ec4b37cbcc094e8ea30412445c979) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a353166837aff7077367cf1288c0bdea') in 0.0036633 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.273216 seconds.
+  path: Assets/InputSystem_Actions.inputactions
+  artifactKey: Guid(052faaac586de48259a63d0c4782560b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/InputSystem_Actions.inputactions using Guid(052faaac586de48259a63d0c4782560b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1e1b21f8a52a64eac8c7579f0b2f9835') in 0.3959453 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Zectorlab/BullTank/Prefabs/Master/Prefab_BullTank.prefab
+  artifactKey: Guid(b011f8d602793ae46a3b7a8fdce28b78) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Prefabs/Master/Prefab_BullTank.prefab using Guid(b011f8d602793ae46a3b7a8fdce28b78) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '58865cb75da781175567bb239905bde9') in 0.1444156 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 567
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Viking.prefab
+  artifactKey: Guid(755f88ed624d3684088c15ef36614a24) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Viking.prefab using Guid(755f88ed624d3684088c15ef36614a24) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '91a502cd479390cf2690a1433328e8ee') in 0.0267195 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 854
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack02_Run_Loop.FBX
+  artifactKey: Guid(7a51dc6c9d1f8b840bc84fd704b6b178) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack02_Run_Loop.FBX using Guid(7a51dc6c9d1f8b840bc84fd704b6b178) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ebdff8b748f81d4cfd627b98fc0e006b') in 0.0552638 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 156
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_VikingSuit_BC.png
+  artifactKey: Guid(c9ec52f9a4c031d44be17a6858dc4393) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_VikingSuit_BC.png using Guid(c9ec52f9a4c031d44be17a6858dc4393) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '773ca17eadc21df421ccd564493c997c') in 0.0633932 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Meshes/SM_Viking_Axe.fbx
+  artifactKey: Guid(17e83658388c9f64e968012444679fad) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Meshes/SM_Viking_Axe.fbx using Guid(17e83658388c9f64e968012444679fad) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '27ff2fe5b8c746fbf5a37b4e141d4e99') in 0.0334454 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_Blue_BC.png
+  artifactKey: Guid(65cb0fe854b3e4549a827fdf0e9333d5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_Blue_BC.png using Guid(65cb0fe854b3e4549a827fdf0e9333d5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ab730894fa0091b76d4f6d0dd6cb546f') in 0.0304798 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TutorialInfo/Icons/URP.png
+  artifactKey: Guid(727a75301c3d24613a3ebcec4a24c2c8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TutorialInfo/Icons/URP.png using Guid(727a75301c3d24613a3ebcec4a24c2c8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '03af51e65c4154dcf415ff947ec9c186') in 0.0249078 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Bodyguard_AO.png
+  artifactKey: Guid(b77c88df8bce5144bba17aa6a4351391) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Bodyguard_AO.png using Guid(b77c88df8bce5144bba17aa6a4351391) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bf6290017c4365fcb7a6490bb55a8598') in 0.0319853 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_N.png
+  artifactKey: Guid(3dbd9d3c17da56740a6acb638bf2c99f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_N.png using Guid(3dbd9d3c17da56740a6acb638bf2c99f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f9bfb66fa71a8b3c3992ff7d37186231') in 0.0405214 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/TutorialInfo/Scripts/Readme.cs
+  artifactKey: Guid(fcf7219bab7fe46a1ad266029b2fee19) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TutorialInfo/Scripts/Readme.cs using Guid(fcf7219bab7fe46a1ad266029b2fee19) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '34777cac47a6bbcb27d20cb8d49f9395') in 0.0187473 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_VikingSuit_M.png
+  artifactKey: Guid(560a01a4b43690e4687d93119af22792) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_VikingSuit_M.png using Guid(560a01a4b43690e4687d93119af22792) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3e61a8cd846b8e8afd4e823a62f250cf') in 0.0379732 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Axe_R.png
+  artifactKey: Guid(4b62269352ed648428b5adf4a10731d0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Axe_R.png using Guid(4b62269352ed648428b5adf4a10731d0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b30616ea3021671eb0a6971f2ae8efc2') in 0.0343151 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Settings/Mobile_Renderer.asset
+  artifactKey: Guid(65bc7dbf4170f435aa868c779acfb082) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/Mobile_Renderer.asset using Guid(65bc7dbf4170f435aa868c779acfb082) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a1885edd42889450eb078762e7190431') in 0.0846126 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Axe_MS.png
+  artifactKey: Guid(d393e5887391900408b445b3fb85d991) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Axe_MS.png using Guid(d393e5887391900408b445b3fb85d991) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f70a7f72ec9f0a3fb69bb7750eb61fc6') in 0.0437537 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Baton_AO.png
+  artifactKey: Guid(ac6ddc26d7b2e804f93634d3683ed5a4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Baton_AO.png using Guid(ac6ddc26d7b2e804f93634d3683ed5a4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1d85336ec8b5e729e210696db2d1a6cf') in 0.0282293 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_SpeedWalk_B.FBX
+  artifactKey: Guid(1c6594e7b29d9334faaaab824773a189) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_SpeedWalk_B.FBX using Guid(1c6594e7b29d9334faaaab824773a189) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '16ffeef1c6e1343e23e9fda7f367ffed') in 0.0245298 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 156
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AM_BullTank.mask
+  artifactKey: Guid(82cca863700c3a3439a182061cd70705) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AM_BullTank.mask using Guid(82cca863700c3a3439a182061cd70705) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f755cd8a1f74084fff0b5a938229b68c') in 0.0136864 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_VikingSuit_BC.png
+  artifactKey: Guid(451973364b353ba4dbec2c2bf608af20) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_VikingSuit_BC.png using Guid(451973364b353ba4dbec2c2bf608af20) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '98e2762f09e5018ed8c3f941c774e12d') in 0.0302022 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Baton_N.png
+  artifactKey: Guid(3888a9f11f951384498ec9768980716f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Baton_N.png using Guid(3888a9f11f951384498ec9768980716f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b4eb98fe8f9c999cd1d30e6c4318ef68') in 0.0342489 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_N.png
+  artifactKey: Guid(dcc13321f220a49458f94ba037b37f53) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_N.png using Guid(dcc13321f220a49458f94ba037b37f53) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fee011d179ec3d5db5b2f5bddfd40e04') in 0.0323503 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack03_Start.FBX
+  artifactKey: Guid(351913c79bf33a34eb2c3af2d2b58d11) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack03_Start.FBX using Guid(351913c79bf33a34eb2c3af2d2b58d11) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '570de6a4e748aba10096d572634ac286') in 0.0260647 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 156
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+  artifactKey: Guid(476cc7d7cd9874016adc216baab94a0a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs using Guid(476cc7d7cd9874016adc216baab94a0a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8166f4b4e244874b1be451add42eefa9') in 0.0150289 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Settings/PC_Renderer.asset
+  artifactKey: Guid(f288ae1f4751b564a96ac7587541f7a2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/PC_Renderer.asset using Guid(f288ae1f4751b564a96ac7587541f7a2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a255e4794bc75c2054a8f5d53f485898') in 0.0209417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Bodyguard_N.png
+  artifactKey: Guid(af09fab3295520d44a05d07ade0f70a9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Bodyguard_N.png using Guid(af09fab3295520d44a05d07ade0f70a9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8fa450ddafb009531863ebb690513ccb') in 0.0409023 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Settings/DefaultVolumeProfile.asset
+  artifactKey: Guid(ab09877e2e707104187f6f83e2f62510) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/DefaultVolumeProfile.asset using Guid(ab09877e2e707104187f6f83e2f62510) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '95e3ab282dc13ec8aa4e20a848c90573') in 0.0168748 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Grey.mat
+  artifactKey: Guid(5c0682c552aa8ae4c8c0908412c732e9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Grey.mat using Guid(5c0682c552aa8ae4c8c0908412c732e9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a2bf12cb86705afb8ab3bc8c4d49fd10') in 0.0917626 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_VikingSuit_N.png
+  artifactKey: Guid(cb62656e6e5002140832c57b03eca58a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_VikingSuit_N.png using Guid(cb62656e6e5002140832c57b03eca58a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5ff90cfc63141ff94abf5473585bba75') in 0.0399228 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_VikingSuit_BC.png
+  artifactKey: Guid(8027bb0e440c1f644a07692cc095e0d8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_VikingSuit_BC.png using Guid(8027bb0e440c1f644a07692cc095e0d8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6a0dba9343350ab956253834fa74818b') in 0.0350439 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Run.FBX
+  artifactKey: Guid(a4069dfd3f9fdf54d99fab72bfa25e38) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Run.FBX using Guid(a4069dfd3f9fdf54d99fab72bfa25e38) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a93ee3d100639502f19bb948be9c026d') in 0.0295916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 156
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_Brown_BC.png
+  artifactKey: Guid(e47e6d324a569a54a86fb94befa5c9e7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_Brown_BC.png using Guid(e47e6d324a569a54a86fb94befa5c9e7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b659ecfae8cc2360b68fd7fb7c6054e8') in 0.0317387 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Jump_End.FBX
+  artifactKey: Guid(8cf038293a5e9bf4ebf4548a5fbbc68b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Jump_End.FBX using Guid(8cf038293a5e9bf4ebf4548a5fbbc68b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ba9b96603855b8ec7fea5ffbe47d6dbb') in 0.028771 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 156
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Axe_MT.png
+  artifactKey: Guid(8def888c969eeb244a4231109d33157b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Axe_MT.png using Guid(8def888c969eeb244a4231109d33157b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5e606b8595ef49a613c9578ecdb68239') in 0.0320293 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Naked.prefab
+  artifactKey: Guid(265dbe52419c8434ba1ed50a2f392529) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Naked.prefab using Guid(265dbe52419c8434ba1ed50a2f392529) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0c12bdac4c8bad881a9694102c5e8669') in 0.025122 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 849
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Baton_BC.png
+  artifactKey: Guid(0bf43b72c986f454597696c64c669648) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Baton_BC.png using Guid(0bf43b72c986f454597696c64c669648) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f7fbab21560f15c3483f55a295e3954f') in 0.0391368 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Body_Blue_BC.png
+  artifactKey: Guid(621e47a51794c7a438cdc68c965e9486) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Body_Blue_BC.png using Guid(621e47a51794c7a438cdc68c965e9486) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dbdcc05f75401250944edea35995c640') in 0.0383997 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Viking_Axe.mat
+  artifactKey: Guid(d71a499ddc14e0b4f90eabbc3cd21b93) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Viking_Axe.mat using Guid(d71a499ddc14e0b4f90eabbc3cd21b93) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '737c44d4065f77d37b88578847273e00') in 0.076446 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Viking.mat
+  artifactKey: Guid(7d3388377070000439de140cb9c764fd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Viking.mat using Guid(7d3388377070000439de140cb9c764fd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd7b676974354321eb5c877abf65ea5b3') in 0.0947712 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack03_End.FBX
+  artifactKey: Guid(d48835701a7405d4cab510618673b75f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Attack03_End.FBX using Guid(d48835701a7405d4cab510618673b75f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2229249d5d273aeda92bf3050502554f') in 0.0309676 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 156
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'efd5ba68ec6a71560675915e1f1af3a6') in 0.0163826 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Block.FBX
+  artifactKey: Guid(b1e1995696a495b4fbd7649152ceb762) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Block.FBX using Guid(b1e1995696a495b4fbd7649152ceb762) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a69dd9dd606e6d263a5dfaaf8921a5df') in 0.0271555 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 156
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Bodyguard.prefab
+  artifactKey: Guid(95cb5178c41759e4e9c2a9e9c31e3dbc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Bodyguard.prefab using Guid(95cb5178c41759e4e9c2a9e9c31e3dbc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '61fb0711e689f92062a8b6a2587d1c02') in 0.0336608 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 854
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TutorialInfo/Layout.wlt
+  artifactKey: Guid(eabc9546105bf4accac1fd62a63e88e6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TutorialInfo/Layout.wlt using Guid(eabc9546105bf4accac1fd62a63e88e6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2858a66f54a46ca07b9976a51a92e0f7') in 0.0124667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_MS.png
+  artifactKey: Guid(97919c8c3cab5c34ca4af49cd2d166a2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_MS.png using Guid(97919c8c3cab5c34ca4af49cd2d166a2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ded056997ee09105589537b83e761f04') in 0.0397135 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Brown.mat
+  artifactKey: Guid(48a4b60759269904f87f5554ec06a7d7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Brown.mat using Guid(48a4b60759269904f87f5554ec06a7d7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dd5c7dcb0aa748fc07e803cb3947cf25') in 0.0730927 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/sphereMaterial.mat
+  artifactKey: Guid(07bf2401209d89b4ebc941d340d8a7bb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/sphereMaterial.mat using Guid(07bf2401209d89b4ebc941d340d8a7bb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ef61b66f3fbad5c8dffbf5f4cd5034c1') in 0.0176757 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Materials/M_BullTank_HDRP_Bodyguards.mat
+  artifactKey: Guid(c14bf1052c21a1547bd23b1db00cea96) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Materials/M_BullTank_HDRP_Bodyguards.mat using Guid(c14bf1052c21a1547bd23b1db00cea96) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a4cdcdf125bd141c5f413b3b990d6c50') in 0.0293042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Angry.FBX
+  artifactKey: Guid(3ba1b5f9f1416bf4b88cca52e4f76194) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Angry.FBX using Guid(3ba1b5f9f1416bf4b88cca52e4f76194) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '67a09abeb20808154dcc48ffc5927159') in 0.0321272 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 156
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_Black_BC.png
+  artifactKey: Guid(9bae4b4e1c55b004ab67f8cd2057b6ba) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_Black_BC.png using Guid(9bae4b4e1c55b004ab67f8cd2057b6ba) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '097fb0e78aa0d74f829199d2d10b327a') in 0.0346082 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Materials/M_BullTank_BuiltIn_Bodyguards.mat
+  artifactKey: Guid(40cd5525670520c4198f14d406d3ae94) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Materials/M_BullTank_BuiltIn_Bodyguards.mat using Guid(40cd5525670520c4198f14d406d3ae94) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dd9b58a49ab8bf799bec1ec43d018f1c') in 0.0903326 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Baton_AO.png
+  artifactKey: Guid(efd16aa17b4f9054d804b7984fd86e7e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_Baton_AO.png using Guid(efd16aa17b4f9054d804b7984fd86e7e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bf3820842a00638b532879f1028e7453') in 0.0284971 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Settings/Mobile_RPAsset.asset
+  artifactKey: Guid(5e6cbd92db86f4b18aec3ed561671858) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/Mobile_RPAsset.asset using Guid(5e6cbd92db86f4b18aec3ed561671858) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8ad7ede8fb4812ee46491781cac00519') in 0.0865461 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_Blue_BC.png
+  artifactKey: Guid(78311bcc7be4d3343af29a28258e1471) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_Blue_BC.png using Guid(78311bcc7be4d3343af29a28258e1471) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ff0cb95c642dd84c3315ec27634a3b3b') in 0.0270327 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Bodyguard_M.png
+  artifactKey: Guid(3876a4747cc39df48a7996be045778bc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Bodyguard_M.png using Guid(3876a4747cc39df48a7996be045778bc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '51df6622c3cefc14ef015d21752d88e2') in 0.0431964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Materials/M_BullTank_BuiltIn_Viking.mat
+  artifactKey: Guid(b2a4e0c1c4406f4419831b4c461313fe) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Materials/M_BullTank_BuiltIn_Viking.mat using Guid(b2a4e0c1c4406f4419831b4c461313fe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ea0a68cb7c593284cbbd7ad45b7a6eb4') in 0.0812479 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_VikingSuit_N.png
+  artifactKey: Guid(a553da98d806e7a47922fd975a07a852) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/Built-In/BuiltIn_Textures/T_BullTank_BuiltIn_VikingSuit_N.png using Guid(a553da98d806e7a47922fd975a07a852) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3dac436224f2b7c49a681c324c0598da') in 0.0427804 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Jump_Loop.FBX
+  artifactKey: Guid(db2d2f7ac16232b4cbf85b66e317bdf0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Jump_Loop.FBX using Guid(db2d2f7ac16232b4cbf85b66e317bdf0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '33cafe453c4e6124d2a4881770097ba8') in 0.0267737 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 156
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Walk_R.FBX
+  artifactKey: Guid(0adead023c1fdb34e853641bed142d86) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Walk_R.FBX using Guid(0adead023c1fdb34e853641bed142d86) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2053fdef4710cdcd913ea17e1cd7d0e3') in 0.0340881 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 156
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_Gray_BC.png
+  artifactKey: Guid(d6b102a447a5f374f8cb6c502e466d6e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Body_Gray_BC.png using Guid(d6b102a447a5f374f8cb6c502e466d6e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fd69e8b61ed288bf80b482a8489488ec') in 0.0414318 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Hit.FBX
+  artifactKey: Guid(c17546a99f52b294fab634e42122d673) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Animations/AS_BullTank_Hit.FBX using Guid(c17546a99f52b294fab634e42122d673) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '036643b98196079281620d5e1b7c9d83') in 0.0319888 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 156
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Axe_N.png
+  artifactKey: Guid(093cc7e6ecadae84bbfcdf078e065689) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Axe_N.png using Guid(093cc7e6ecadae84bbfcdf078e065689) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '74eeadfa302473a7fcb26f83db71f52e') in 0.0694413 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_AO.png
+  artifactKey: Guid(64a4c4628bd51494e892b6827b490a26) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Textures/T_BullTank_URP_Body_AO.png using Guid(64a4c4628bd51494e892b6827b490a26) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '58115c574892907cced3deb6ec6d52d3') in 0.0273776 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Baton_N.png
+  artifactKey: Guid(e90ed42d74fda4343b356f656f35ba9a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/HDRP/HDRP_Textures/T_BullTank_HDRP_Baton_N.png using Guid(e90ed42d74fda4343b356f656f35ba9a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bd46d823d53780ba699b3a1dbc35c9d8') in 0.0541621 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Blue.mat
+  artifactKey: Guid(22779ca6e81d5ed42ac9bf0c5e1ccf29) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Zectorlab/BullTank/Art/Pipelines/URP/URP_Materials/M_BullTank_URP_Blue.mat using Guid(22779ca6e81d5ed42ac9bf0c5e1ccf29) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '867b8e564d5573f28254e7a71585261d') in 0.0799453 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.705 seconds
+Refreshing native plugins compatible for Editor in 1.12 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.776 seconds
+Domain Reload Profiling: 1481ms
+	BeginReloadAssembly (224ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (79ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (400ms)
+		LoadAssemblies (303ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (186ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (161ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (777ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (578ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (60ms)
+			ProcessInitializeOnLoadAttributes (441ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 1.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 23 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5908 unused Assets / (3.8 MB). Loaded Objects now: 6632.
+Memory consumption went from 167.9 MB to 164.1 MB.
+Total: 6.930000 ms (FindLiveObjects: 0.584200 ms CreateObjectMapping: 0.538700 ms MarkObjects: 3.904400 ms  DeleteObjects: 1.901300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.664 seconds
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.752 seconds
+Domain Reload Profiling: 1414ms
+	BeginReloadAssembly (189ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (399ms)
+		LoadAssemblies (314ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (177ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (156ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (752ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (567ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (61ms)
+			ProcessInitializeOnLoadAttributes (424ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5906 unused Assets / (4.1 MB). Loaded Objects now: 6634.
+Memory consumption went from 166.0 MB to 161.9 MB.
+Total: 8.068500 ms (FindLiveObjects: 0.629000 ms CreateObjectMapping: 0.581500 ms MarkObjects: 4.270400 ms  DeleteObjects: 2.586100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 816.246282 seconds.
+  path: Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Bodyguard.prefab
+  artifactKey: Guid(95cb5178c41759e4e9c2a9e9c31e3dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Bodyguard.prefab using Guid(95cb5178c41759e4e9c2a9e9c31e3dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '94c22b600609d84afc4f611b3b1709d0') in 4.0399836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 885
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Viking.prefab
+  artifactKey: Guid(755f88ed624d3684088c15ef36614a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zectorlab/BullTank/Prefabs/Prefab_BullTank Viking.prefab using Guid(755f88ed624d3684088c15ef36614a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f2187febf1d0816420582e7c21ea2e44') in 0.2593862 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 888
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.689 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.726 seconds
+Domain Reload Profiling: 1414ms
+	BeginReloadAssembly (213ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (64ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (408ms)
+		LoadAssemblies (314ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (189ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (171ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (726ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (536ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (62ms)
+			ProcessInitializeOnLoadAttributes (407ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+Refreshing native plugins compatible for Editor in 1.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5907 unused Assets / (4.0 MB). Loaded Objects now: 6656.
+Memory consumption went from 170.4 MB to 166.4 MB.
+Total: 8.277000 ms (FindLiveObjects: 0.688700 ms CreateObjectMapping: 0.761900 ms MarkObjects: 4.412500 ms  DeleteObjects: 2.412700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
